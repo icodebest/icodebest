@@ -65,6 +65,18 @@
   </a>
 </p>
 
+<h3 align="left">WakaTime Stats:</h3>
+<p align="left">
+  <a href="https://wakatime.com/@018cd5cd-cde3-4921-b7eb-1196749409dd">
+    <img src="https://wakatime.com/badge/user/018cd5cd-cde3-4921-b7eb-1196749409dd.svg" alt="Total time coded since Jan 4 2024" />
+  </a>
+</p>
+
+<h3 align="left">Languages I've Used:</h3>
+<p align="left">
+  <img src="https://wakatime.com/share/@018cd5cd-cde3-4921-b7eb-1196749409dd/cbff6531-ff45-4d2c-8ad4-25cb20fe66a5.svg" alt="Languages I've Used" />
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icodebest&show_icons=true&locale=en&layout=compact" alt="icodebest" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icodebest&show_icons=true&locale=en" alt="icodebest" /></p>
