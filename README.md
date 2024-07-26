@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Advanced Machine Learning and Deep Learning**
 - 💬 I love talking about **Artificial Intelligence and Data Science**
 - 📫 Feel free to reach me at **waleedusmaneng12@gmail.com**
+- 🌟 If you like my work, **[Follow me](https://github.com/icodebest)** to stay updated with my latest projects!
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
@@ -73,12 +74,18 @@
 </p>
 
 <h3 align="left">Languages I've Used:</h3>
-<p align="left">
-  <img src="https://wakatime.com/share/@018cd5cd-cde3-4921-b7eb-1196749409dd/cbff6531-ff45-4d2c-8ad4-25cb20fe66a5.svg" alt="Languages I've Used" />
+<p align="center">
+  <img src="https://wakatime.com/share/@018cd5cd-cde3-4921-b7eb-1196749409dd/cbff6531-ff45-4d2c-8ad4-25cb20fe66a5.svg" alt="Languages I've Used" width="450"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icodebest&show_icons=true&locale=en&layout=compact" alt="icodebest" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=icodebest&show_icons=true&locale=en&layout=compact" alt="icodebest" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icodebest&show_icons=true&locale=en" alt="icodebest" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=icodebest&show_icons=true&locale=en" alt="icodebest" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icodebest&" alt="icodebest" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icodebest&" alt="icodebest" />
+</p>
