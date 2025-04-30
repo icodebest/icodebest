@@ -1,16 +1,23 @@
 ![Banner](https://github.com/icodebest/icodebest/blob/main/profile%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Waleed Usman</h1>
-<h3 align="center">Aspiring AI & Machine Learning Engineer</h3>
+<h3 align="center">AI Engineer | NLP & Generative AI Specialist</h3>
 
 <img align="right" alt="Coding" width="400" src="https://luatgiale.vn/wp-content/uploads/2019/09/sales-manager-dl.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=icodebest&label=Profile%20views&color=0e75b6&style=flat" alt="icodebest" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=icodebest&label=Profile%20views&color=0e75b6&style=flat" alt="icodebest" />
+</p>
 
-- 🌱 I’m currently learning **Advanced Machine Learning and Deep Learning**
-- 💬 I love talking about **Artificial Intelligence and Data Science**
-- 📫 Feel free to reach me at **waleedusmaneng12@gmail.com**
-- 🌟 If you like my work, **[Follow me](https://github.com/icodebest)** to stay updated with my latest projects!
+- 🤖 AI Engineer with hands-on experience in developing ML models, NLP systems, and generative AI applications  
+- 🚀 Proven impact: improved model accuracy by 20% and reduced response time by 30%  
+- 🔧 Skilled in Python, TensorFlow, PyTorch, LangChain, and LLM-powered solutions  
+- ☁️ Experienced with cloud platforms like AWS, Azure ML, and Google Cloud (Dialogflow)  
+- 🧠 Passionate about transforming complex business problems into scalable AI products  
+- 💬 Let’s talk AI, NLP pipelines, GenAI tools, and real-time AI agent development  
+- 📫 Reach me at: **waleedusmaneng12@gmail.com**  
+- ⭐ Like what I build? [**Follow me**](https://github.com/icodebest) to stay updated with future work!
+
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
