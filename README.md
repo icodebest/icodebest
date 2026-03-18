@@ -1,4 +1,4 @@
-![Banner](https://github.com/icodebest/icodebest/blob/main/profile%20banner.png)
+![Banner](https://github.com/icodebest/icodebest/blob/main/profile%20code.png)
 
 <h1 align="center">Hi 👋, I'm Waleed Usman</h1>
 <h3 align="center">AI Engineer | Generative AI | LLM Systems | NLP Specialist</h3>
