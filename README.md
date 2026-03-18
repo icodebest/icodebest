@@ -1,4 +1,4 @@
-![Banner](https://github.com/icodebest/icodebest/blob/main/profile%20profine banner.png)
+![Banner](https://github.com/icodebest/icodebest/blob/main/profile%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Waleed Usman</h1>
 <h3 align="center">AI Engineer | Generative AI | LLM Systems | NLP Specialist</h3>
@@ -10,6 +10,8 @@
 </p>
 
 ---
+
+### 🧠 Professional Summary
 
 AI Engineer focused on designing and building intelligent systems across **Natural Language Processing, Machine Learning, and Generative AI**. Experienced in working with **Large Language Models (LLMs)**, including prompt engineering, fine-tuning, and developing production-ready AI applications.
 
@@ -33,7 +35,7 @@ Strong interest in building **scalable AI solutions**, optimizing model performa
 **AI/ML:** TensorFlow, PyTorch, HuggingFace Transformers, Scikit-learn, OpenCV  
 **Generative AI:** LangChain, LlamaIndex, LangGraph, RAG, Prompt Engineering  
 **Data Processing:** Pandas, NumPy, Matplotlib, Seaborn  
-**Cloud & Tools:** AWS, AWS Bedrock Azure ML, GCP, Docker, Git, CI/CD  
+**Cloud & Tools:** AWS, Azure ML, GCP, Docker, Git, CI/CD  
 **Databases:** MySQL, MongoDB, FAISS, Pinecone, ChromaDB  
 **APIs & Backend:** FastAPI, REST APIs  
 
