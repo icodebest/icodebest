@@ -1,7 +1,7 @@
 ![Banner](https://github.com/icodebest/icodebest/blob/main/profile%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Waleed Usman</h1>
-<h3 align="center">AI Engineer | NLP & Generative AI Specialist</h3>
+<h3 align="center">AI Engineer | Generative AI | LLM Systems | NLP Specialist</h3>
 
 <img align="right" alt="Coding" width="400" src="https://luatgiale.vn/wp-content/uploads/2019/09/sales-manager-dl.gif">
 
@@ -9,81 +9,47 @@
   <img src="https://komarev.com/ghpvc/?username=icodebest&label=Profile%20views&color=0e75b6&style=flat" alt="icodebest" />
 </p>
 
-- 🤖 AI Engineer with hands-on experience in developing ML models, NLP systems, and generative AI applications  
-- 🚀 Proven impact: improved model accuracy by 20% and reduced response time by 30%  
-- 🔧 Skilled in Python, TensorFlow, PyTorch, LangChain, and LLM-powered solutions  
-- ☁️ Experienced with cloud platforms like AWS, Azure ML, and Google Cloud (Dialogflow)  
-- 🧠 Passionate about transforming complex business problems into scalable AI products  
-- 💬 Let’s talk AI, NLP pipelines, GenAI tools, and real-time AI agent development  
-- 📫 Reach me at: **waleedusmaneng12@gmail.com**  
-- ⭐ Like what I build? [**Follow me**](https://github.com/icodebest) to stay updated with future work!
+---
 
+### 🧠 Professional Summary
 
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/imwaleedusman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imwaleedusman" height="30" width="40" /></a>
-</p>
+AI Engineer focused on designing and building intelligent systems across **Natural Language Processing, Machine Learning, and Generative AI**. Experienced in working with **Large Language Models (LLMs)**, including prompt engineering, fine-tuning, and developing production-ready AI applications.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a>
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a>
-</p>
+Strong interest in building **scalable AI solutions**, optimizing model performance, and integrating AI systems into real-world applications. Committed to writing clean, maintainable code and delivering reliable AI-driven products.
 
-<h3 align="left">WakaTime Stats:</h3>
-<p align="left">
-  <a href="https://wakatime.com/@018cd5cd-cde3-4921-b7eb-1196749409dd">
-    <img src="https://wakatime.com/badge/user/018cd5cd-cde3-4921-b7eb-1196749409dd.svg" alt="Total time coded since Jan 4 2024" />
-  </a>
-</p>
+---
 
-<h3 align="left">Languages I've Used:</h3>
-<p align="center">
-  <img src="https://wakatime.com/share/@018cd5cd-cde3-4921-b7eb-1196749409dd/cbff6531-ff45-4d2c-8ad4-25cb20fe66a5.svg" alt="Languages I've Used" width="450"/>
-</p>
+### 🚀 Core Expertise
+
+- 🤖 Development of **LLM-based applications** using Retrieval-Augmented Generation (RAG)  
+- ⚡ Building **real-time AI systems** and conversational agents  
+- 🔧 Model optimization, fine-tuning, and efficient inference strategies  
+- ☁️ Deployment of AI solutions using **AWS, Azure ML, and Google Cloud**  
+- 🧩 Designing **end-to-end AI pipelines** with APIs, Docker, and scalable architectures  
+
+---
+
+### 🛠️ Technical Skills
+
+**Languages:** Python, SQL, Java, C++  
+**AI/ML:** TensorFlow, PyTorch, HuggingFace Transformers, Scikit-learn, OpenCV  
+**Generative AI:** LangChain, LlamaIndex, LangGraph, RAG, Prompt Engineering  
+**Data Processing:** Pandas, NumPy, Matplotlib, Seaborn  
+**Cloud & Tools:** AWS, Azure ML, GCP, Docker, Git, CI/CD  
+**Databases:** MySQL, MongoDB, FAISS, Pinecone, ChromaDB  
+**APIs & Backend:** FastAPI, REST APIs  
+
+---
+
+### 📫 Connect with Me
+
+- 📧 Email: **wusmantech@gmail.com**  
+- 💼 LinkedIn: https://linkedin.com/in/imwaleedusman  
+- 💻 GitHub: https://github.com/icodebest  
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=icodebest&show_icons=true&locale=en&layout=compact" alt="icodebest" />
