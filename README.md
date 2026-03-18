@@ -11,8 +11,6 @@
 
 ---
 
-### 🧠 Professional Summary
-
 AI Engineer focused on designing and building intelligent systems across **Natural Language Processing, Machine Learning, and Generative AI**. Experienced in working with **Large Language Models (LLMs)**, including prompt engineering, fine-tuning, and developing production-ready AI applications.
 
 Strong interest in building **scalable AI solutions**, optimizing model performance, and integrating AI systems into real-world applications. Committed to writing clean, maintainable code and delivering reliable AI-driven products.
@@ -35,7 +33,7 @@ Strong interest in building **scalable AI solutions**, optimizing model performa
 **AI/ML:** TensorFlow, PyTorch, HuggingFace Transformers, Scikit-learn, OpenCV  
 **Generative AI:** LangChain, LlamaIndex, LangGraph, RAG, Prompt Engineering  
 **Data Processing:** Pandas, NumPy, Matplotlib, Seaborn  
-**Cloud & Tools:** AWS, Azure ML, GCP, Docker, Git, CI/CD  
+**Cloud & Tools:** AWS, AWS Bedrock Azure ML, GCP, Docker, Git, CI/CD  
 **Databases:** MySQL, MongoDB, FAISS, Pinecone, ChromaDB  
 **APIs & Backend:** FastAPI, REST APIs  
 
