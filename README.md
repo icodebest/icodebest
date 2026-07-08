@@ -44,9 +44,9 @@ My focus is on delivering reliable, well-architected AI systems backed by clean,
 </td>
 <td width="43%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=icodebest&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" width="100%" alt="Waleed's GitHub stats"/>
+<img src="https://raw.githubusercontent.com/icodebest/icodebest/main/profile/stats.svg" width="100%" alt="Waleed's GitHub stats"/>
 
-<img src="https://streak-stats.demolab.com/?user=icodebest&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=ffffff" width="100%" alt="Waleed's GitHub streak"/>
+<img src="https://raw.githubusercontent.com/icodebest/icodebest/main/profile/streak.svg" width="100%" alt="Waleed's GitHub streak"/>
 
 </td>
 </tr>
@@ -131,9 +131,9 @@ My focus is on delivering reliable, well-architected AI systems backed by clean,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=icodebest&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="44%" alt="Top languages"/>
+<img src="https://raw.githubusercontent.com/icodebest/icodebest/main/profile/top-langs.svg" width="44%" alt="Top languages"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-trophy.vercel.app/?username=icodebest&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=3" width="48%" alt="GitHub trophies"/>
+<img src="https://raw.githubusercontent.com/icodebest/icodebest/main/profile/trophy.svg" width="48%" alt="GitHub trophies"/>
 
 </div>
 
